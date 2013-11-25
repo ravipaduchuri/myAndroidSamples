@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="8"
+        android:minSdkVersion="14"
         android:targetSdkVersion="17" />
 
     <application
@@ -21,6 +21,26 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.LayoutsMainActivity"
+            android:label="@string/title_activity_layouts_main" >
+        </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.ui.layouts.LinearLayoutHorizActivity"
+            android:label="@string/title_activity_linear_layout_horiz" >
+        </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.ui.layouts.LinearLayoutVerticalActivity"
+            android:label="@string/title_activity_linear_layout_vertical" >
+        </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.ui.layouts.RelativeLayoutActivity"
+            android:label="@string/title_activity_relative_layout" >
+        </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.ui.layouts.TableLayoutActivity"
+            android:label="@string/title_activity_table_layout" >
         </activity>
     </application>
 

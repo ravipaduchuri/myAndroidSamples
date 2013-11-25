@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainListItems">
+        <item>Layouts</item>
+        <item>Lifecycles</item>
+    </string-array>
+    
+    <string-array name="layoutTypes">
+        <item>Linear Layout(Horizontal)</item>
+        <item>Linear Layout(Vertical)</item>
+        <item>Relative Layout</item>
+        <item>Table Layout</item>
+        <item>Grid View</item>
+        <item>Frame layout</item>
+    </string-array>
+    
+</resources>
