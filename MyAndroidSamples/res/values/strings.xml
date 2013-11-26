@@ -9,5 +9,8 @@
     <string name="title_activity_linear_layout_vertical">LinearLayoutVerticalActivity</string>
     <string name="title_activity_relative_layout">RelativeLayoutActivity</string>
     <string name="title_activity_table_layout">TableLayoutActivity</string>
+    <string name="title_activity_main_life_cycle">MainLifeCycleActivity</string>
+    <string name="title_activity_life_cycle_a">LifeCycleAActivity</string>
+    <string name="title_activity_life_cycle_b">LifeCycleBActivity</string>
 
 </resources>

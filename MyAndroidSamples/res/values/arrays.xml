@@ -14,4 +14,10 @@
         <item>Frame layout</item>
     </string-array>
     
+    <string-array name="lifeCycleTypes">
+        <item>Activity</item>
+        <item>Service</item>
+        <item>Fragment</item>
+    </string-array>
+    
 </resources>

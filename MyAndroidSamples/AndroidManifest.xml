@@ -42,6 +42,19 @@
             android:name="com.defyApps.myandroidsamples.ui.layouts.TableLayoutActivity"
             android:label="@string/title_activity_table_layout" >
         </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.LifeCycleMainActivity"
+            android:label="@string/title_activity_main_life_cycle" >
+        </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.ui.lifecycles.LifeCycleAActivity"
+            android:label="@string/title_activity_life_cycle_a"
+            android:configChanges="orientation" >
+        </activity>
+        <activity
+            android:name="com.defyApps.myandroidsamples.ui.lifecycles.LifeCycleBActivity"
+            android:label="@string/title_activity_life_cycle_b" >
+        </activity>
     </application>
 
 </manifest>

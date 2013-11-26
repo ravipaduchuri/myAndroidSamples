@@ -43,6 +43,9 @@ public class MainActivity extends Activity {
 				
 			} else if (position == 1){
 				// Tapped on Lifecycle
+				Utils.logMessage(getClass().getSimpleName(), "Tapped on the Life cycle item", Log.VERBOSE);
+				Intent i = new Intent(MainActivity.this, LifeCycleMainActivity.class);
+				startActivity(i);
 			}
 		}
 	};

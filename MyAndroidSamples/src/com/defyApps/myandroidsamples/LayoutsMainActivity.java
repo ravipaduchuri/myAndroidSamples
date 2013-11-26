@@ -1,5 +1,6 @@
 package com.defyApps.myandroidsamples;
 
+import com.defyApps.myandroidsamples.R;
 import com.defyApps.myandroidsamples.ui.layouts.LinearLayoutHorizActivity;
 import com.defyApps.myandroidsamples.ui.layouts.LinearLayoutVerticalActivity;
 import com.defyApps.myandroidsamples.ui.layouts.RelativeLayoutActivity;
