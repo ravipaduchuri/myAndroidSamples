@@ -12,5 +12,14 @@
     <string name="title_activity_main_life_cycle">MainLifeCycleActivity</string>
     <string name="title_activity_life_cycle_a">LifeCycleAActivity</string>
     <string name="title_activity_life_cycle_b">LifeCycleBActivity</string>
+    
+    
+    <string name="label_username">User name</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="label_register">Register</string>
+    <string name="label_not_a_member">Not a member?</string>
+    <string name="label_sign_up">Sign Up</string>
+    <string name="label_forgot_password">Forgot Password?</string>
 
 </resources>
