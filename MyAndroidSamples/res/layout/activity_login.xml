@@ -20,7 +20,7 @@
             android:imeOptions="actionNext"
             android:singleLine="true" />
 
-        <EditText
+        <com.defyApps.myandroidsamples.customwidgets.CustomPasswordField
             android:id="@+id/edt_txt_password"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
